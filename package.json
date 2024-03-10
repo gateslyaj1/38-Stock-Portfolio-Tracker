@@ -1,0 +1,26 @@
+{
+"name": "38kikiov-909",
+"version": "1.0.0",
+"description": "Keep an eye on your investments and analyze stock performance with this financial tool.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/gateslyaj1/38-Stock-Portfolio-Tracker.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "gateslyaj1",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
